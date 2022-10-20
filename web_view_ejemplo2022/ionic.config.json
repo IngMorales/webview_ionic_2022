@@ -1,0 +1,7 @@
+{
+  "name": "web_view_ejemplo2022",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
